@@ -1,7 +1,7 @@
 ## Bem vindos! 🙏
 
 <p> Meu nome é Isaac Martins e sou formado no curso de Análise e Desenvolvimento de sistemas. Eu acredito que a tecnologia é fruto da inteligência humana, e como tal, deve ser usada para o bem da humanidade. Por isso estou aqui, para melhorar a vida das pessoas através da tecnologia. </p>
-<p> Tenho conhecimento em desenvolvimento web com as tecnologias e frameworks Javascript, como também conhecimento em desenvolvimento mobile nativo com Kotlin / Android. </p>
+<p> Tenho conhecimento em desenvolvimento web como Laravel e Angular, como também conhecimento em desenvolvimento mobile nativo com Kotlin / Android. </p>
 
 <hr>
 
