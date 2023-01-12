@@ -22,8 +22,6 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacDev2022&show_icons=true&theme=radical) -->
 
-<hr>
-
 <!--
 **IsaacDev2022/IsaacDev2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
