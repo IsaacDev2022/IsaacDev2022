@@ -5,36 +5,34 @@
 <p> Em 2022 infelizmente não pude continuar estudando Android e Kotlin devido a minhas atividades na UnB, mas voltei em 2023 para continuar meus estudos e criação de projetos Android.</p>
 <p> Mesmo gostando e estando mais centrado no Android, meu foco é futuramente ampliar ainda mais meus conhecimentos e habilidades para a plataforma IOs e também, para multiplataforma, com tecnologias como Flutter e React Native estando na mira do meu futuro como desenvolvedor. </p>
 
-<hr>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacDev2022&show_icons=true&theme=radical" />
+</div>
 
-<h3> Conhecimentos gerais: </h3>
+## Conhecimentos gerais:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![LINUX](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![MaterialDesign](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-<br>
+## Projetos Android Criados:
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacDev2022&show_icons=true&theme=radical) -->
+<ul>
+  <li> <a href="https://github.com/IsaacDev2022/Pomo-List-App"> PomoList App </a>: Aplicativo de gestão de tempo que une Pomodoro e To-do-List, futuramente será lançado na PlayStore.     
+  </li>  
+  <li> <a href="https://github.com/IsaacDev2022/Product-App"> Product App </a>: Emulador de e-commerce baseado em uma API pública. </li>
+  <li> <a href="https://github.com/IsaacDev2022/HDC-Events-Project"> HDC Events </a>: Aplicativo de criação de eventos baseado em um projeto feito em Laravel PHP </li>
+  <li> <a href="https://github.com/IsaacDev2022/Task-Project"> Task Project </a>: Projeto final do curso de Desenvolvimento Android em Kotlin da Udemy </li>
+  <li> <a href="https://github.com/IsaacDev2022/Business-Card-Inter"> Business Card </a>: Aplicativo de cadastro de cartões coloridos, projeto final do Bootcamp do banco Inter em parceiria com a plataforma de ensino de tecnologia Digital Innovation One - DIO. </li>
+  <li> <a href="https://github.com/IsaacDev2022/Subscribers-App"> Subscribers App </a>: Aplicativo de cadastro de inscritos, feito no curso de Jetpack ROOM do canal Douglas Motta. </li>
+  <li> <a href="https://github.com/IsaacDev2022/To-do-List---Projeto-Final-Santander-"> To-do-List </a>: Aplicativo de gestão de tarefas To-do-List, projeto final do Bootcamp do Santander com a DIO. </li>
+</ul>
 
-<!--
-**IsaacDev2022/IsaacDev2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato:
+<a href="https://www.linkedin.com/in/isaac-silva-martins-05582819a/"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/isaac-silva-martins-05582819a/"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/isaac-silva-martins-05582819a/"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
