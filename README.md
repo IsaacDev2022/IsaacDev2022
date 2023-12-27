@@ -1,7 +1,8 @@
 ## Bem vindos! 🙏
 
-<p> Meu nome é Isaac Martins e sou formado no curso de Análise e Desenvolvimento de sistemas. Eu acredito que a tecnologia é fruto da inteligência humana, e como tal, deve ser usada para o bem da humanidade. Por isso estou aqui, para melhorar a vida das pessoas através da tecnologia. </p>
-<p> Tenho conhecimento em desenvolvimento mobile nativo com Kotlin / Android. </p>
+<p> Olá, meu nome é Isaac Martins e sou formado em Análise e Desenvolvimento pela UniProjeção em Brasília. Participei de dois projetos da UnB como bolsista, sendo 1 deles desenvolvimento de cursos para a EVG, e o outro como desenvolvedor para a criação de uma plataforma para a PGFN. Nesse último, vivenciei na prática como é a rotina de um desenvolvedor de verdade, trabalhando em equipe utilizando ferramentas como Git, Gitlab, SCRUM, entre outros. </p>
+<p> Descobri meu gosto por desenvolvimento Android em um Bootcamp do Santander em parceria com a plataforma DIO, e desde então venho desenvolvendo minhas habilidades como programador, participando de outros Bootcamps, aprendendo cada vez mais para criar aplicativos funcionais e úteis, limpos, simples de manter, otimizados e visualmente bonitos. </p>
+<p> Mesmo gostando e estando mais centrado no Android, meu foco é futuramente ampliar ainda mais meus conhecimentos e habilidades para a plataforma IOs e também, para multiplataforma, com tecnologias como Flutter e React Native estando na mira do meu futuro como desenvolvedor. </p>
 
 <hr>
 
