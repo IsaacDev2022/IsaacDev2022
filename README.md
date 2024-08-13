@@ -3,7 +3,7 @@
 <p> Olá, meu nome é Isaac Martins e sou formado em Análise e Desenvolvimento pela UniProjeção em Brasília. Participei de dois projetos da Universidade de Brasília/UnB como bolsista, sendo 1 deles desenvolvimento de cursos para a EVG, e o outro como desenvolvedor para a criação de uma plataforma para a PGFN. Nesse último, vivenciei na prática como é a rotina de um desenvolvedor de verdade, trabalhando em equipe utilizando ferramentas como Git, Gitlab, SCRUM, entre outros. </p>
 <p> Descobri meu gosto por desenvolvimento Android em um Bootcamp do Santander em parceria com a plataforma DIO, no ano 2021, e desde então venho desenvolvendo minhas habilidades como programador, participando de outros Bootcamps, aprendendo cada vez mais para criar aplicativos funcionais e úteis, limpos, simples de manter, otimizados e visualmente bonitos. </p>
 <p> Em 2022 infelizmente não pude continuar estudando Android e Kotlin devido a minhas atividades na UnB, mas voltei em 2023 para continuar meus estudos e criação de projetos Android.</p>
-<p> Mesmo gostando e estando mais centrado no Android, meu foco é futuramente ampliar ainda mais meus conhecimentos e habilidades para a plataforma IOs e também, para multiplataforma, com tecnologias como Flutter e React Native estando na mira do meu futuro como desenvolvedor. </p>
+<p> Mesmo gostando e estando mais centrado no Android, já estou estudando Flutter para amplicar meus conhecimentos como Desenvolvedor mobile. </p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacDev2022&show_icons=true&theme=radical" />
